@@ -1,5 +1,5 @@
 {
-  "name": "ai assistant",
+  "name": "Color Generator",
   "id": "1364734449696262965",
   "api": "1.0.0",
   "main": "code.js",
@@ -15,7 +15,7 @@
   ],
   "editorType": ["figma", "figjam"],
   "networkAccess": {
-    "allowedDomains": ["none"],
-    "devAllowedDomains": ["http://localhost:3000"]
+    "devAllowedDomains": ["http://localhost:3000"],
+    "allowedDomains": ["none"]
   }
 }
